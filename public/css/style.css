@@ -1,1 +1,19 @@
-style.css
+header{
+	background-color: #FF3399;
+	height: 100px;
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap:wrap;
+	justify-content: space-between;
+	align-items: strecth;
+}
+
+header figure{
+	margin-left: 0;
+	margin-top: 0;
+}
+
+header figure img{
+	height: 100px;
+}
