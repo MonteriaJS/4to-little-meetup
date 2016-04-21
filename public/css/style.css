@@ -11,13 +11,13 @@ body{
 	display: flex;
 	justify-content: space-between;
 }
-.container_logo{
+.header__container-logo{
 	align-items: center;
 	display: flex;
 	margin: 0;
 	width: 20%;
 }
-.container_logo-logo{
+.header__container-logo__logo{
 	width: 100%;
 }
 
