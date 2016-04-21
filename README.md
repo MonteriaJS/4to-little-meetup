@@ -1,10 +1,12 @@
 # 4to Little Meetup
 
-Hola Javascripter! :heart:
+Hola Javascripter! :heart::star::blue_heart:
+
+En este **Little Meetup** hablamos sobre **HTML5** y **CSS3**, 2 tecnologías front-end básicas que nos permiten estructurar la información y mostrarla de la mejor manera al usuario final.
 
 ##¿Disfrutaste del evento?
 
-Nos alegra mucho :blush:, aquí podrás encontrar lo realizado el día viernes 15 de abril.
+Nos alegra mucho :blush:, aquí podrás encontrar lo realizado el día viernes 22 de abril.
 
 ##¿No pudiste ir por alguna razón?
 
